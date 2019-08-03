@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">PROMISE OCHORNMA</string>
+  <string name="welcome_to_alc_4_0">Welcome To ALC 4.0</string>
+  <string name="about_alc">About ALC</string>
+  <string name="my_profile">My Profile</string>
+  <string name="main_activity">ALC 4 Phase 1</string>
+  <string name="image">PROMISE OCHORNMA PICTURE</string>
+  <string name="track_andriod">Track: Andriod</string>
+  <string name="country_nigeria">Country: Nigeria</string>
+  <string name="email_ochornmapromise_gmail_com">Email: ochornmapromise@gmail.com</string>
+  <string name="phone_number_2348033214929">Phone Number: 2348033214929</string>
+  <string name="slack_username_promise_ochornma">Slack Username: @Promise Ochornma</string>
+</resources>
